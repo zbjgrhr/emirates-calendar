@@ -1,0 +1,942 @@
+[
+  {
+    "id": "new-year-2026",
+    "date": "2026-01-01",
+    "end": "2026-01-02",
+    "name": "公历新年",
+    "description": "迎接公历新的一年。全国公共假期。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "miraj-1447",
+    "date": "2026-01-16",
+    "end": "2026-01-17",
+    "name": "登霄夜",
+    "description": "纪念先知穆罕默德夜行与登霄的宗教纪念日。不是全国公共假期。夜间宗教纪念通常自前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "haq-1447",
+    "date": "2026-02-03",
+    "end": "2026-02-04",
+    "name": "哈格莱拉糖果节（舍尔邦月十五夜）",
+    "description": "阿联酋传统民俗节庆，孩子们穿传统服装、走访邻里并收集糖果，迎接即将到来的斋月。不是全国公共假期；庆祝活动多在前一晚举行。",
+    "kind": "传统节庆",
+    "estimated": true,
+    "url": "https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celebrate-the-popular-tradition/"
+  },
+  {
+    "id": "ramadan-1447",
+    "date": "2026-02-18",
+    "end": "2026-02-19",
+    "name": "斋月开始",
+    "description": "伊斯兰历九月开始，穆斯林在黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月本身不是整月公共假期。",
+    "kind": "宗教节期",
+    "estimated": false,
+    "url": "https://www.timeanddate.com/holidays/united-arab-emirates/2026"
+  },
+  {
+    "id": "children-2026",
+    "date": "2026-03-15",
+    "end": "2026-03-16",
+    "name": "阿联酋儿童节",
+    "description": "关注儿童的权利、健康、教育和成长；属于纪念日，不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://ecd.gov.ae/en/about-initiative"
+  },
+  {
+    "id": "qadr-1447",
+    "date": "2026-03-16",
+    "end": "2026-03-17",
+    "name": "盖德尔夜（传统纪念日）",
+    "description": "通常在斋月二十七夜纪念，亦常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念安排，不代表可确定的唯一日期；不是全国公共假期，夜间活动通常从前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "fitr-extra-1447",
+    "date": "2026-03-19",
+    "end": "2026-03-20",
+    "name": "开斋节额外假期（斋月第30天）",
+    "description": "2026年开斋节假期包含3月19日，连同3月20日至22日，共四天。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://www.timeanddate.com/holidays/united-arab-emirates/2026"
+  },
+  {
+    "id": "fitr-1447",
+    "date": "2026-03-20",
+    "end": "2026-03-23",
+    "name": "开斋节",
+    "description": "庆祝斋月结束，常有节日礼拜、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十月初一至初三；如斋月满30天，则斋月第30天也放假。未确认的额外一天在日历中单独标明。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://www.timeanddate.com/holidays/united-arab-emirates/2026"
+  },
+  {
+    "id": "federal-extra-2026",
+    "date": "2026-05-25",
+    "end": "2026-05-26",
+    "name": "宰牲节联邦政府额外假期",
+    "description": "2026年联邦政府部门假期自5月25日至29日。本条仅记录5月25日额外一天；全国私营部门已公布假期为5月26日至29日，不能将本日视作全国统一假期。",
+    "kind": "联邦政府假期",
+    "estimated": false,
+    "url": "https://www.fahr.gov.ae/en/news/the-federal-authority-for-human-resources-announces-the-eid-al-adha-holiday-for-the-federal-government-from-may-25-29-2026/"
+  },
+  {
+    "id": "arafah-1447",
+    "date": "2026-05-26",
+    "end": "2026-05-27",
+    "name": "阿拉法特日",
+    "description": "伊斯兰历十二月初九，朝觐中的重要日子。全国公共假期一天，随后迎来宰牲节。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://www.wam.ae/en/article/c09wibx-uae-announces-may-26-29-eid-adha-holiday-for"
+  },
+  {
+    "id": "adha-1447",
+    "date": "2026-05-27",
+    "end": "2026-05-30",
+    "name": "宰牲节（古尔邦节）",
+    "description": "伊斯兰历十二月初十开始，重视信仰、分享与帮助有需要的人。现行全国公共假期为十二月初十至十二日，共三天。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://www.wam.ae/en/article/c09wibx-uae-announces-may-26-29-eid-adha-holiday-for"
+  },
+  {
+    "id": "hijri-new-year-1448",
+    "date": "2026-06-15",
+    "end": "2026-06-16",
+    "name": "伊斯兰新年假期",
+    "description": "伊斯兰历一月初一，标志新回历年的开始，并纪念迁徙的历史意义。现行全国公共假期一天；实际放假日可能由政府调整。 2026年实际假期为6月15日；此条记录放假日。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://admobility.gov.ae/en/news/itc-services-during-new-year-holiday-2026"
+  },
+  {
+    "id": "union-pledge-2026",
+    "date": "2026-07-18",
+    "end": "2026-07-19",
+    "name": "联邦誓约日",
+    "description": "纪念1971年7月18日各酋长国统治者签署联邦宣言与宪法、确定国家名称的历史时刻。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/union-pledge-day-2"
+  },
+  {
+    "id": "mawlid-1448",
+    "date": "2026-08-28",
+    "end": "2026-08-29",
+    "name": "圣纪节假期（先知穆罕默德诞辰）",
+    "description": "伊斯兰历三月十二日，纪念先知穆罕默德诞辰。现行全国公共假期一天；实际放假日可能由政府调整。 2026年实际假期为8月28日；此条记录放假日。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://www.fahr.gov.ae/wp-content/uploads/2026/08/Circular-No.-11-of-2026-Regarding-The-Holiday-of-the-Prophet-Mohammads-Birthday-1448-AH.pdf"
+  },
+  {
+    "id": "women-2026",
+    "date": "2026-08-28",
+    "end": "2026-08-29",
+    "name": "阿联酋妇女节",
+    "description": "致敬阿联酋女性对社会与国家发展的贡献；日期也纪念1975年妇女总会成立。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/emirati-women-s-day"
+  },
+  {
+    "id": "flag-2026",
+    "date": "2026-11-03",
+    "end": "2026-11-04",
+    "name": "阿联酋国旗日",
+    "description": "通过升旗等活动表达对国家团结与共同身份的认同。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.nma.gov.ae/en/media-center/events/flag-day"
+  },
+  {
+    "id": "commemoration-2026",
+    "date": "2026-11-30",
+    "end": "2026-12-01",
+    "name": "阿联酋烈士纪念日",
+    "description": "缅怀为国家奉献生命的人士。按现行全国假期清单，本日为纪念日，不单独列作全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.ajnrd.ae/en/event/"
+  },
+  {
+    "id": "national-2026",
+    "date": "2026-12-02",
+    "end": "2026-12-04",
+    "name": "阿联酋国庆节（联邦日）",
+    "description": "纪念1971年12月2日阿联酋联邦成立。全国公共假期为12月2日至3日。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "year-eve-2026",
+    "date": "2026-12-31",
+    "end": "2027-01-01",
+    "name": "跨年夜",
+    "description": "公历年最后一天，居民常以聚会、灯光或烟花活动迎接新年。不是全国公共假期；活动以当地公告为准。",
+    "kind": "节庆",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "new-year-2027",
+    "date": "2027-01-01",
+    "end": "2027-01-02",
+    "name": "公历新年",
+    "description": "迎接公历新的一年。全国公共假期。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "miraj-1448",
+    "date": "2027-01-05",
+    "end": "2027-01-06",
+    "name": "登霄夜",
+    "description": "纪念先知穆罕默德夜行与登霄的宗教纪念日。不是全国公共假期。夜间宗教纪念通常自前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "haq-1448",
+    "date": "2027-01-23",
+    "end": "2027-01-24",
+    "name": "哈格莱拉糖果节（舍尔邦月十五夜）",
+    "description": "阿联酋传统民俗节庆，孩子们穿传统服装、走访邻里并收集糖果，迎接即将到来的斋月。不是全国公共假期；庆祝活动多在前一晚举行。",
+    "kind": "传统节庆",
+    "estimated": true,
+    "url": "https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celebrate-the-popular-tradition/"
+  },
+  {
+    "id": "ramadan-1448",
+    "date": "2027-02-08",
+    "end": "2027-02-09",
+    "name": "斋月开始",
+    "description": "伊斯兰历九月开始，穆斯林在黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月本身不是整月公共假期。",
+    "kind": "宗教节期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "qadr-1448",
+    "date": "2027-03-06",
+    "end": "2027-03-07",
+    "name": "盖德尔夜（传统纪念日）",
+    "description": "通常在斋月二十七夜纪念，亦常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念安排，不代表可确定的唯一日期；不是全国公共假期，夜间活动通常从前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "fitr-extra-1448",
+    "date": "2027-03-08",
+    "end": "2027-03-09",
+    "name": "开斋节可能增休一天（待确认）",
+    "description": "仅当当地斋月满30天时，本日才是全国公共假期；若斋月只有29天则本条不构成假期。此条是条件性提示，不是已公布放假安排。",
+    "kind": "条件性假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "fitr-1448",
+    "date": "2027-03-09",
+    "end": "2027-03-12",
+    "name": "开斋节",
+    "description": "庆祝斋月结束，常有节日礼拜、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十月初一至初三；如斋月满30天，则斋月第30天也放假。未确认的额外一天在日历中单独标明。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "children-2027",
+    "date": "2027-03-15",
+    "end": "2027-03-16",
+    "name": "阿联酋儿童节",
+    "description": "关注儿童的权利、健康、教育和成长；属于纪念日，不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://ecd.gov.ae/en/about-initiative"
+  },
+  {
+    "id": "arafah-1448",
+    "date": "2027-05-15",
+    "end": "2027-05-16",
+    "name": "阿拉法特日",
+    "description": "伊斯兰历十二月初九，朝觐中的重要日子。全国公共假期一天，随后迎来宰牲节。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "adha-1448",
+    "date": "2027-05-16",
+    "end": "2027-05-19",
+    "name": "宰牲节（古尔邦节）",
+    "description": "伊斯兰历十二月初十开始，重视信仰、分享与帮助有需要的人。现行全国公共假期为十二月初十至十二日，共三天。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "hijri-new-year-1449",
+    "date": "2027-06-06",
+    "end": "2027-06-07",
+    "name": "伊斯兰新年",
+    "description": "伊斯兰历一月初一，标志新回历年的开始，并纪念迁徙的历史意义。现行全国公共假期一天；实际放假日可能由政府调整。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "union-pledge-2027",
+    "date": "2027-07-18",
+    "end": "2027-07-19",
+    "name": "联邦誓约日",
+    "description": "纪念1971年7月18日各酋长国统治者签署联邦宣言与宪法、确定国家名称的历史时刻。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/union-pledge-day-2"
+  },
+  {
+    "id": "mawlid-1449",
+    "date": "2027-08-14",
+    "end": "2027-08-15",
+    "name": "圣纪节（先知穆罕默德诞辰）",
+    "description": "伊斯兰历三月十二日，纪念先知穆罕默德诞辰。现行全国公共假期一天；实际放假日可能由政府调整。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "women-2027",
+    "date": "2027-08-28",
+    "end": "2027-08-29",
+    "name": "阿联酋妇女节",
+    "description": "致敬阿联酋女性对社会与国家发展的贡献；日期也纪念1975年妇女总会成立。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/emirati-women-s-day"
+  },
+  {
+    "id": "flag-2027",
+    "date": "2027-11-03",
+    "end": "2027-11-04",
+    "name": "阿联酋国旗日",
+    "description": "通过升旗等活动表达对国家团结与共同身份的认同。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.nma.gov.ae/en/media-center/events/flag-day"
+  },
+  {
+    "id": "commemoration-2027",
+    "date": "2027-11-30",
+    "end": "2027-12-01",
+    "name": "阿联酋烈士纪念日",
+    "description": "缅怀为国家奉献生命的人士。按现行全国假期清单，本日为纪念日，不单独列作全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.ajnrd.ae/en/event/"
+  },
+  {
+    "id": "national-2027",
+    "date": "2027-12-02",
+    "end": "2027-12-04",
+    "name": "阿联酋国庆节（联邦日）",
+    "description": "纪念1971年12月2日阿联酋联邦成立。全国公共假期为12月2日至3日。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "miraj-1449",
+    "date": "2027-12-25",
+    "end": "2027-12-26",
+    "name": "登霄夜",
+    "description": "纪念先知穆罕默德夜行与登霄的宗教纪念日。不是全国公共假期。夜间宗教纪念通常自前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "year-eve-2027",
+    "date": "2027-12-31",
+    "end": "2028-01-01",
+    "name": "跨年夜",
+    "description": "公历年最后一天，居民常以聚会、灯光或烟花活动迎接新年。不是全国公共假期；活动以当地公告为准。",
+    "kind": "节庆",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "new-year-2028",
+    "date": "2028-01-01",
+    "end": "2028-01-02",
+    "name": "公历新年",
+    "description": "迎接公历新的一年。全国公共假期。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "haq-1449",
+    "date": "2028-01-12",
+    "end": "2028-01-13",
+    "name": "哈格莱拉糖果节（舍尔邦月十五夜）",
+    "description": "阿联酋传统民俗节庆，孩子们穿传统服装、走访邻里并收集糖果，迎接即将到来的斋月。不是全国公共假期；庆祝活动多在前一晚举行。",
+    "kind": "传统节庆",
+    "estimated": true,
+    "url": "https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celebrate-the-popular-tradition/"
+  },
+  {
+    "id": "ramadan-1449",
+    "date": "2028-01-28",
+    "end": "2028-01-29",
+    "name": "斋月开始",
+    "description": "伊斯兰历九月开始，穆斯林在黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月本身不是整月公共假期。",
+    "kind": "宗教节期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "qadr-1449",
+    "date": "2028-02-23",
+    "end": "2028-02-24",
+    "name": "盖德尔夜（传统纪念日）",
+    "description": "通常在斋月二十七夜纪念，亦常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念安排，不代表可确定的唯一日期；不是全国公共假期，夜间活动通常从前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "fitr-extra-1449",
+    "date": "2028-02-25",
+    "end": "2028-02-26",
+    "name": "开斋节可能增休一天（待确认）",
+    "description": "仅当当地斋月满30天时，本日才是全国公共假期；若斋月只有29天则本条不构成假期。此条是条件性提示，不是已公布放假安排。",
+    "kind": "条件性假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "fitr-1449",
+    "date": "2028-02-26",
+    "end": "2028-02-29",
+    "name": "开斋节",
+    "description": "庆祝斋月结束，常有节日礼拜、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十月初一至初三；如斋月满30天，则斋月第30天也放假。未确认的额外一天在日历中单独标明。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "children-2028",
+    "date": "2028-03-15",
+    "end": "2028-03-16",
+    "name": "阿联酋儿童节",
+    "description": "关注儿童的权利、健康、教育和成长；属于纪念日，不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://ecd.gov.ae/en/about-initiative"
+  },
+  {
+    "id": "arafah-1449",
+    "date": "2028-05-04",
+    "end": "2028-05-05",
+    "name": "阿拉法特日",
+    "description": "伊斯兰历十二月初九，朝觐中的重要日子。全国公共假期一天，随后迎来宰牲节。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "adha-1449",
+    "date": "2028-05-05",
+    "end": "2028-05-08",
+    "name": "宰牲节（古尔邦节）",
+    "description": "伊斯兰历十二月初十开始，重视信仰、分享与帮助有需要的人。现行全国公共假期为十二月初十至十二日，共三天。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "hijri-new-year-1450",
+    "date": "2028-05-25",
+    "end": "2028-05-26",
+    "name": "伊斯兰新年",
+    "description": "伊斯兰历一月初一，标志新回历年的开始，并纪念迁徙的历史意义。现行全国公共假期一天；实际放假日可能由政府调整。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "union-pledge-2028",
+    "date": "2028-07-18",
+    "end": "2028-07-19",
+    "name": "联邦誓约日",
+    "description": "纪念1971年7月18日各酋长国统治者签署联邦宣言与宪法、确定国家名称的历史时刻。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/union-pledge-day-2"
+  },
+  {
+    "id": "mawlid-1450",
+    "date": "2028-08-03",
+    "end": "2028-08-04",
+    "name": "圣纪节（先知穆罕默德诞辰）",
+    "description": "伊斯兰历三月十二日，纪念先知穆罕默德诞辰。现行全国公共假期一天；实际放假日可能由政府调整。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "women-2028",
+    "date": "2028-08-28",
+    "end": "2028-08-29",
+    "name": "阿联酋妇女节",
+    "description": "致敬阿联酋女性对社会与国家发展的贡献；日期也纪念1975年妇女总会成立。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/emirati-women-s-day"
+  },
+  {
+    "id": "flag-2028",
+    "date": "2028-11-03",
+    "end": "2028-11-04",
+    "name": "阿联酋国旗日",
+    "description": "通过升旗等活动表达对国家团结与共同身份的认同。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.nma.gov.ae/en/media-center/events/flag-day"
+  },
+  {
+    "id": "commemoration-2028",
+    "date": "2028-11-30",
+    "end": "2028-12-01",
+    "name": "阿联酋烈士纪念日",
+    "description": "缅怀为国家奉献生命的人士。按现行全国假期清单，本日为纪念日，不单独列作全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.ajnrd.ae/en/event/"
+  },
+  {
+    "id": "national-2028",
+    "date": "2028-12-02",
+    "end": "2028-12-04",
+    "name": "阿联酋国庆节（联邦日）",
+    "description": "纪念1971年12月2日阿联酋联邦成立。全国公共假期为12月2日至3日。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "miraj-1450",
+    "date": "2028-12-14",
+    "end": "2028-12-15",
+    "name": "登霄夜",
+    "description": "纪念先知穆罕默德夜行与登霄的宗教纪念日。不是全国公共假期。夜间宗教纪念通常自前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "haq-1450",
+    "date": "2028-12-31",
+    "end": "2029-01-01",
+    "name": "哈格莱拉糖果节（舍尔邦月十五夜）",
+    "description": "阿联酋传统民俗节庆，孩子们穿传统服装、走访邻里并收集糖果，迎接即将到来的斋月。不是全国公共假期；庆祝活动多在前一晚举行。",
+    "kind": "传统节庆",
+    "estimated": true,
+    "url": "https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celebrate-the-popular-tradition/"
+  },
+  {
+    "id": "year-eve-2028",
+    "date": "2028-12-31",
+    "end": "2029-01-01",
+    "name": "跨年夜",
+    "description": "公历年最后一天，居民常以聚会、灯光或烟花活动迎接新年。不是全国公共假期；活动以当地公告为准。",
+    "kind": "节庆",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "new-year-2029",
+    "date": "2029-01-01",
+    "end": "2029-01-02",
+    "name": "公历新年",
+    "description": "迎接公历新的一年。全国公共假期。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "ramadan-1450",
+    "date": "2029-01-16",
+    "end": "2029-01-17",
+    "name": "斋月开始",
+    "description": "伊斯兰历九月开始，穆斯林在黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月本身不是整月公共假期。",
+    "kind": "宗教节期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "qadr-1450",
+    "date": "2029-02-11",
+    "end": "2029-02-12",
+    "name": "盖德尔夜（传统纪念日）",
+    "description": "通常在斋月二十七夜纪念，亦常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念安排，不代表可确定的唯一日期；不是全国公共假期，夜间活动通常从前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "fitr-extra-1450",
+    "date": "2029-02-13",
+    "end": "2029-02-14",
+    "name": "开斋节可能增休一天（待确认）",
+    "description": "仅当当地斋月满30天时，本日才是全国公共假期；若斋月只有29天则本条不构成假期。此条是条件性提示，不是已公布放假安排。",
+    "kind": "条件性假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "fitr-1450",
+    "date": "2029-02-14",
+    "end": "2029-02-17",
+    "name": "开斋节",
+    "description": "庆祝斋月结束，常有节日礼拜、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十月初一至初三；如斋月满30天，则斋月第30天也放假。未确认的额外一天在日历中单独标明。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "children-2029",
+    "date": "2029-03-15",
+    "end": "2029-03-16",
+    "name": "阿联酋儿童节",
+    "description": "关注儿童的权利、健康、教育和成长；属于纪念日，不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://ecd.gov.ae/en/about-initiative"
+  },
+  {
+    "id": "arafah-1450",
+    "date": "2029-04-23",
+    "end": "2029-04-24",
+    "name": "阿拉法特日",
+    "description": "伊斯兰历十二月初九，朝觐中的重要日子。全国公共假期一天，随后迎来宰牲节。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "adha-1450",
+    "date": "2029-04-24",
+    "end": "2029-04-27",
+    "name": "宰牲节（古尔邦节）",
+    "description": "伊斯兰历十二月初十开始，重视信仰、分享与帮助有需要的人。现行全国公共假期为十二月初十至十二日，共三天。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "hijri-new-year-1451",
+    "date": "2029-05-14",
+    "end": "2029-05-15",
+    "name": "伊斯兰新年",
+    "description": "伊斯兰历一月初一，标志新回历年的开始，并纪念迁徙的历史意义。现行全国公共假期一天；实际放假日可能由政府调整。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "union-pledge-2029",
+    "date": "2029-07-18",
+    "end": "2029-07-19",
+    "name": "联邦誓约日",
+    "description": "纪念1971年7月18日各酋长国统治者签署联邦宣言与宪法、确定国家名称的历史时刻。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/union-pledge-day-2"
+  },
+  {
+    "id": "mawlid-1451",
+    "date": "2029-07-24",
+    "end": "2029-07-25",
+    "name": "圣纪节（先知穆罕默德诞辰）",
+    "description": "伊斯兰历三月十二日，纪念先知穆罕默德诞辰。现行全国公共假期一天；实际放假日可能由政府调整。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "women-2029",
+    "date": "2029-08-28",
+    "end": "2029-08-29",
+    "name": "阿联酋妇女节",
+    "description": "致敬阿联酋女性对社会与国家发展的贡献；日期也纪念1975年妇女总会成立。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/emirati-women-s-day"
+  },
+  {
+    "id": "flag-2029",
+    "date": "2029-11-03",
+    "end": "2029-11-04",
+    "name": "阿联酋国旗日",
+    "description": "通过升旗等活动表达对国家团结与共同身份的认同。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.nma.gov.ae/en/media-center/events/flag-day"
+  },
+  {
+    "id": "commemoration-2029",
+    "date": "2029-11-30",
+    "end": "2029-12-01",
+    "name": "阿联酋烈士纪念日",
+    "description": "缅怀为国家奉献生命的人士。按现行全国假期清单，本日为纪念日，不单独列作全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.ajnrd.ae/en/event/"
+  },
+  {
+    "id": "national-2029",
+    "date": "2029-12-02",
+    "end": "2029-12-04",
+    "name": "阿联酋国庆节（联邦日）",
+    "description": "纪念1971年12月2日阿联酋联邦成立。全国公共假期为12月2日至3日。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "miraj-1451",
+    "date": "2029-12-04",
+    "end": "2029-12-05",
+    "name": "登霄夜",
+    "description": "纪念先知穆罕默德夜行与登霄的宗教纪念日。不是全国公共假期。夜间宗教纪念通常自前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "haq-1451",
+    "date": "2029-12-21",
+    "end": "2029-12-22",
+    "name": "哈格莱拉糖果节（舍尔邦月十五夜）",
+    "description": "阿联酋传统民俗节庆，孩子们穿传统服装、走访邻里并收集糖果，迎接即将到来的斋月。不是全国公共假期；庆祝活动多在前一晚举行。",
+    "kind": "传统节庆",
+    "estimated": true,
+    "url": "https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celebrate-the-popular-tradition/"
+  },
+  {
+    "id": "year-eve-2029",
+    "date": "2029-12-31",
+    "end": "2030-01-01",
+    "name": "跨年夜",
+    "description": "公历年最后一天，居民常以聚会、灯光或烟花活动迎接新年。不是全国公共假期；活动以当地公告为准。",
+    "kind": "节庆",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "new-year-2030",
+    "date": "2030-01-01",
+    "end": "2030-01-02",
+    "name": "公历新年",
+    "description": "迎接公历新的一年。全国公共假期。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "ramadan-1451",
+    "date": "2030-01-05",
+    "end": "2030-01-06",
+    "name": "斋月开始",
+    "description": "伊斯兰历九月开始，穆斯林在黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月本身不是整月公共假期。",
+    "kind": "宗教节期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "qadr-1451",
+    "date": "2030-01-31",
+    "end": "2030-02-01",
+    "name": "盖德尔夜（传统纪念日）",
+    "description": "通常在斋月二十七夜纪念，亦常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念安排，不代表可确定的唯一日期；不是全国公共假期，夜间活动通常从前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "fitr-extra-1451",
+    "date": "2030-02-03",
+    "end": "2030-02-04",
+    "name": "开斋节可能增休一天（待确认）",
+    "description": "仅当当地斋月满30天时，本日才是全国公共假期；若斋月只有29天则本条不构成假期。此条是条件性提示，不是已公布放假安排。",
+    "kind": "条件性假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "fitr-1451",
+    "date": "2030-02-04",
+    "end": "2030-02-07",
+    "name": "开斋节",
+    "description": "庆祝斋月结束，常有节日礼拜、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十月初一至初三；如斋月满30天，则斋月第30天也放假。未确认的额外一天在日历中单独标明。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "children-2030",
+    "date": "2030-03-15",
+    "end": "2030-03-16",
+    "name": "阿联酋儿童节",
+    "description": "关注儿童的权利、健康、教育和成长；属于纪念日，不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://ecd.gov.ae/en/about-initiative"
+  },
+  {
+    "id": "arafah-1451",
+    "date": "2030-04-12",
+    "end": "2030-04-13",
+    "name": "阿拉法特日",
+    "description": "伊斯兰历十二月初九，朝觐中的重要日子。全国公共假期一天，随后迎来宰牲节。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "adha-1451",
+    "date": "2030-04-13",
+    "end": "2030-04-16",
+    "name": "宰牲节（古尔邦节）",
+    "description": "伊斯兰历十二月初十开始，重视信仰、分享与帮助有需要的人。现行全国公共假期为十二月初十至十二日，共三天。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "hijri-new-year-1452",
+    "date": "2030-05-04",
+    "end": "2030-05-05",
+    "name": "伊斯兰新年",
+    "description": "伊斯兰历一月初一，标志新回历年的开始，并纪念迁徙的历史意义。现行全国公共假期一天；实际放假日可能由政府调整。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "mawlid-1452",
+    "date": "2030-07-13",
+    "end": "2030-07-14",
+    "name": "圣纪节（先知穆罕默德诞辰）",
+    "description": "伊斯兰历三月十二日，纪念先知穆罕默德诞辰。现行全国公共假期一天；实际放假日可能由政府调整。",
+    "kind": "公共假期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "union-pledge-2030",
+    "date": "2030-07-18",
+    "end": "2030-07-19",
+    "name": "联邦誓约日",
+    "description": "纪念1971年7月18日各酋长国统治者签署联邦宣言与宪法、确定国家名称的历史时刻。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/union-pledge-day-2"
+  },
+  {
+    "id": "women-2030",
+    "date": "2030-08-28",
+    "end": "2030-08-29",
+    "name": "阿联酋妇女节",
+    "description": "致敬阿联酋女性对社会与国家发展的贡献；日期也纪念1975年妇女总会成立。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://mohap.gov.ae/en/w/emirati-women-s-day"
+  },
+  {
+    "id": "flag-2030",
+    "date": "2030-11-03",
+    "end": "2030-11-04",
+    "name": "阿联酋国旗日",
+    "description": "通过升旗等活动表达对国家团结与共同身份的认同。不另设全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.nma.gov.ae/en/media-center/events/flag-day"
+  },
+  {
+    "id": "miraj-1452",
+    "date": "2030-11-23",
+    "end": "2030-11-24",
+    "name": "登霄夜",
+    "description": "纪念先知穆罕默德夜行与登霄的宗教纪念日。不是全国公共假期。夜间宗教纪念通常自前一日日落开始。",
+    "kind": "宗教纪念",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "commemoration-2030",
+    "date": "2030-11-30",
+    "end": "2030-12-01",
+    "name": "阿联酋烈士纪念日",
+    "description": "缅怀为国家奉献生命的人士。按现行全国假期清单，本日为纪念日，不单独列作全国公共假期。",
+    "kind": "纪念日",
+    "estimated": false,
+    "url": "https://www.ajnrd.ae/en/event/"
+  },
+  {
+    "id": "national-2030",
+    "date": "2030-12-02",
+    "end": "2030-12-04",
+    "name": "阿联酋国庆节（联邦日）",
+    "description": "纪念1971年12月2日阿联酋联邦成立。全国公共假期为12月2日至3日。",
+    "kind": "公共假期",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "haq-1452",
+    "date": "2030-12-11",
+    "end": "2030-12-12",
+    "name": "哈格莱拉糖果节（舍尔邦月十五夜）",
+    "description": "阿联酋传统民俗节庆，孩子们穿传统服装、走访邻里并收集糖果，迎接即将到来的斋月。不是全国公共假期；庆祝活动多在前一晚举行。",
+    "kind": "传统节庆",
+    "estimated": true,
+    "url": "https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celebrate-the-popular-tradition/"
+  },
+  {
+    "id": "ramadan-1452",
+    "date": "2030-12-26",
+    "end": "2030-12-27",
+    "name": "斋月开始",
+    "description": "伊斯兰历九月开始，穆斯林在黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月本身不是整月公共假期。",
+    "kind": "宗教节期",
+    "estimated": true,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "id": "year-eve-2030",
+    "date": "2030-12-31",
+    "end": "2031-01-01",
+    "name": "跨年夜",
+    "description": "公历年最后一天，居民常以聚会、灯光或烟花活动迎接新年。不是全国公共假期；活动以当地公告为准。",
+    "kind": "节庆",
+    "estimated": false,
+    "url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  }
+]

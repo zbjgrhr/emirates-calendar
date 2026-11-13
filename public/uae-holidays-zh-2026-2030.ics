@@ -1,0 +1,2254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UAE Chinese Holiday Calendar//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:阿联酋节日 · 中文粉色 · 2026—2030
+X-WR-CALNAME:阿联酋节日 · 中文粉色 · 2026—2030
+X-WR-TIMEZONE:Asia/Dubai
+COLOR:hotpink
+X-APPLE-CALENDAR-COLOR:#FF69B4
+X-WR-CALDESC:2026—2030年阿联酋全国公共假期及主要本土节庆
+ 与纪念日。预计日期不等于政府公布日期；条件性假期
+ 须待确认。非官方日历，无自动核实服务。
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:new-year-2026@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:公历新年
+DESCRIPTION:类别：公共假期\n迎接公历新的一年。全国公共
+ 假期。\n日期说明：固定公历日期或已核实的2026年安排
+ ；实际放假仍以适用政府公告为准。\n资料来源：https://u
+ .ae/en/information-and-services/public-holidays-and-religious-affairs/publ
+ ic-holidays\n覆盖范围：全国公共假期及主要本土节庆、纪
+ 念日；不包含所有外籍社群节日、地方活动、商业节庆
+ 或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:miraj-1447@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:登霄夜（预计）
+DESCRIPTION:类别：宗教纪念\n纪念先知穆罕默德夜行与登霄
+ 的宗教纪念日。不是全国公共假期。夜间宗教纪念通常
+ 自前一日日落开始。\n日期说明：按乌姆古拉历推算，阿
+ 联酋观月、政府调整或部门安排可能造成差异，实际日
+ 期以官方公告为准。\n资料来源：https://u.ae/en/information-an
+ d-services/public-holidays-and-religious-affairs/public-holidays\n覆盖
+ 范围：全国公共假期及主要本土节庆、纪念日；不包含
+ 所有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:haq-1447@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:哈格莱拉糖果节（舍尔邦月十五夜）（预计）
+DESCRIPTION:类别：传统节庆\n阿联酋传统民俗节庆，孩子们
+ 穿传统服装、走访邻里并收集糖果，迎接即将到来的斋
+ 月。不是全国公共假期；庆祝活动多在前一晚举行。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae
+ -to-celebrate-the-popular-tradition/\n覆盖范围：全国公共假期及
+ 主要本土节庆、纪念日；不包含所有外籍社群节日、地
+ 方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:传统节庆
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celeb
+ rate-the-popular-tradition/
+END:VEVENT
+BEGIN:VEVENT
+UID:ramadan-1447@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:斋月开始
+DESCRIPTION:类别：宗教节期\n伊斯兰历九月开始，穆斯林在
+ 黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月
+ 本身不是整月公共假期。\n日期说明：固定公历日期或已
+ 核实的2026年安排；实际放假仍以适用政府公告为准。\n
+ 资料来源：https://www.timeanddate.com/holidays/united-arab-emirates/2
+ 026\n覆盖范围：全国公共假期及主要本土节庆、纪念日；
+ 不包含所有外籍社群节日、地方活动、商业节庆或学校
+ 假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教节期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.timeanddate.com/holidays/united-arab-emirates/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:children-2026@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:阿联酋儿童节
+DESCRIPTION:类别：纪念日\n关注儿童的权利、健康、教育和
+ 成长；属于纪念日，不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://ecd.gov.ae/en/about-initiati
+ ve\n覆盖范围：全国公共假期及主要本土节庆、纪念日；
+ 不包含所有外籍社群节日、地方活动、商业节庆或学校
+ 假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://ecd.gov.ae/en/about-initiative
+END:VEVENT
+BEGIN:VEVENT
+UID:qadr-1447@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:盖德尔夜（传统纪念日）（预计）
+DESCRIPTION:类别：宗教纪念\n通常在斋月二十七夜纪念，亦
+ 常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念
+ 安排，不代表可确定的唯一日期；不是全国公共假期，
+ 夜间活动通常从前一日日落开始。\n日期说明：按乌姆古
+ 拉历推算，阿联酋观月、政府调整或部门安排可能造成
+ 差异，实际日期以官方公告为准。\n资料来源：https://u.ae
+ /en/information-and-services/public-holidays-and-religious-affairs/public-
+ holidays\n覆盖范围：全国公共假期及主要本土节庆、纪念
+ 日；不包含所有外籍社群节日、地方活动、商业节庆或
+ 学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-extra-1447@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:开斋节额外假期（斋月第30天）
+DESCRIPTION:类别：公共假期\n2026年开斋节假期包含3月19日，
+ 连同3月20日至22日，共四天。\n日期说明：固定公历日期
+ 或已核实的2026年安排；实际放假仍以适用政府公告为准
+ 。\n资料来源：https://www.timeanddate.com/holidays/united-arab-emira
+ tes/2026\n覆盖范围：全国公共假期及主要本土节庆、纪念
+ 日；不包含所有外籍社群节日、地方活动、商业节庆或
+ 学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.timeanddate.com/holidays/united-arab-emirates/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-1447@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260323
+SUMMARY:开斋节
+DESCRIPTION:类别：公共假期\n庆祝斋月结束，常有节日礼拜
+ 、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十
+ 月初一至初三；如斋月满30天，则斋月第30天也放假。未
+ 确认的额外一天在日历中单独标明。\n日期说明：固定公
+ 历日期或已核实的2026年安排；实际放假仍以适用政府公
+ 告为准。\n资料来源：https://www.timeanddate.com/holidays/united-a
+ rab-emirates/2026\n覆盖范围：全国公共假期及主要本土节庆
+ 、纪念日；不包含所有外籍社群节日、地方活动、商业
+ 节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.timeanddate.com/holidays/united-arab-emirates/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:federal-extra-2026@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:宰牲节联邦政府额外假期
+DESCRIPTION:类别：联邦政府假期\n2026年联邦政府部门假期自
+ 5月25日至29日。本条仅记录5月25日额外一天；全国私营部
+ 门已公布假期为5月26日至29日，不能将本日视作全国统一
+ 假期。\n日期说明：固定公历日期或已核实的2026年安排
+ ；实际放假仍以适用政府公告为准。\n资料来源：https://w
+ ww.fahr.gov.ae/en/news/the-federal-authority-for-human-resources-announces
+ -the-eid-al-adha-holiday-for-the-federal-government-from-may-25-29-2026/\n
+ 覆盖范围：全国公共假期及主要本土节庆、纪念日；不
+ 包含所有外籍社群节日、地方活动、商业节庆或学校假
+ 期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:联邦政府假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.fahr.gov.ae/en/news/the-federal-authority-for-human-resourc
+ es-announces-the-eid-al-adha-holiday-for-the-federal-government-from-may-2
+ 5-29-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:arafah-1447@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:阿拉法特日
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初九，朝觐中
+ 的重要日子。全国公共假期一天，随后迎来宰牲节。\n日
+ 期说明：固定公历日期或已核实的2026年安排；实际放假
+ 仍以适用政府公告为准。\n资料来源：https://www.wam.ae/en/ar
+ ticle/c09wibx-uae-announces-may-26-29-eid-adha-holiday-for\n覆盖范围
+ ：全国公共假期及主要本土节庆、纪念日；不包含所有
+ 外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.wam.ae/en/article/c09wibx-uae-announces-may-26-29-eid-adha-
+ holiday-for
+END:VEVENT
+BEGIN:VEVENT
+UID:adha-1447@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260530
+SUMMARY:宰牲节（古尔邦节）
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初十开始，重
+ 视信仰、分享与帮助有需要的人。现行全国公共假期为
+ 十二月初十至十二日，共三天。\n日期说明：固定公历日
+ 期或已核实的2026年安排；实际放假仍以适用政府公告为
+ 准。\n资料来源：https://www.wam.ae/en/article/c09wibx-uae-announces
+ -may-26-29-eid-adha-holiday-for\n覆盖范围：全国公共假期及主
+ 要本土节庆、纪念日；不包含所有外籍社群节日、地方
+ 活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.wam.ae/en/article/c09wibx-uae-announces-may-26-29-eid-adha-
+ holiday-for
+END:VEVENT
+BEGIN:VEVENT
+UID:hijri-new-year-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:伊斯兰新年假期
+DESCRIPTION:类别：公共假期\n伊斯兰历一月初一，标志新回
+ 历年的开始，并纪念迁徙的历史意义。现行全国公共假
+ 期一天；实际放假日可能由政府调整。 2026年实际假期为
+ 6月15日；此条记录放假日。\n日期说明：固定公历日期或
+ 已核实的2026年安排；实际放假仍以适用政府公告为准。\
+ n资料来源：https://admobility.gov.ae/en/news/itc-services-during-new-
+ year-holiday-2026\n覆盖范围：全国公共假期及主要本土节庆
+ 、纪念日；不包含所有外籍社群节日、地方活动、商业
+ 节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://admobility.gov.ae/en/news/itc-services-during-new-year-holiday-
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:union-pledge-2026@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:联邦誓约日
+DESCRIPTION:类别：纪念日\n纪念1971年7月18日各酋长国统治者
+ 签署联邦宣言与宪法、确定国家名称的历史时刻。不另
+ 设全国公共假期。\n日期说明：固定公历日期或已核实的
+ 2026年安排；实际放假仍以适用政府公告为准。\n资料来
+ 源：https://mohap.gov.ae/en/w/union-pledge-day-2\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/union-pledge-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:mawlid-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:圣纪节假期（先知穆罕默德诞辰）
+DESCRIPTION:类别：公共假期\n伊斯兰历三月十二日，纪念先
+ 知穆罕默德诞辰。现行全国公共假期一天；实际放假日
+ 可能由政府调整。 2026年实际假期为8月28日；此条记录放
+ 假日。\n日期说明：固定公历日期或已核实的2026年安排
+ ；实际放假仍以适用政府公告为准。\n资料来源：https://w
+ ww.fahr.gov.ae/wp-content/uploads/2026/08/Circular-No.-11-of-2026-Regardin
+ g-The-Holiday-of-the-Prophet-Mohammads-Birthday-1448-AH.pdf\n覆盖范围
+ ：全国公共假期及主要本土节庆、纪念日；不包含所有
+ 外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.fahr.gov.ae/wp-content/uploads/2026/08/Circular-No.-11-of-2
+ 026-Regarding-The-Holiday-of-the-Prophet-Mohammads-Birthday-1448-AH.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:women-2026@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:阿联酋妇女节
+DESCRIPTION:类别：纪念日\n致敬阿联酋女性对社会与国家发
+ 展的贡献；日期也纪念1975年妇女总会成立。不另设全国
+ 公共假期。\n日期说明：固定公历日期或已核实的2026年
+ 安排；实际放假仍以适用政府公告为准。\n资料来源：htt
+ ps://mohap.gov.ae/en/w/emirati-women-s-day\n覆盖范围：全国公共假
+ 期及主要本土节庆、纪念日；不包含所有外籍社群节日
+ 、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/emirati-women-s-day
+END:VEVENT
+BEGIN:VEVENT
+UID:flag-2026@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:阿联酋国旗日
+DESCRIPTION:类别：纪念日\n通过升旗等活动表达对国家团结
+ 与共同身份的认同。不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://www.nma.gov.ae/en/media-cent
+ er/events/flag-day\n覆盖范围：全国公共假期及主要本土节庆
+ 、纪念日；不包含所有外籍社群节日、地方活动、商业
+ 节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.nma.gov.ae/en/media-center/events/flag-day
+END:VEVENT
+BEGIN:VEVENT
+UID:commemoration-2026@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:阿联酋烈士纪念日
+DESCRIPTION:类别：纪念日\n缅怀为国家奉献生命的人士。按
+ 现行全国假期清单，本日为纪念日，不单独列作全国公
+ 共假期。\n日期说明：固定公历日期或已核实的2026年安
+ 排；实际放假仍以适用政府公告为准。\n资料来源：https:
+ //www.ajnrd.ae/en/event/\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.ajnrd.ae/en/event/
+END:VEVENT
+BEGIN:VEVENT
+UID:national-2026@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261204
+SUMMARY:阿联酋国庆节（联邦日）
+DESCRIPTION:类别：公共假期\n纪念1971年12月2日阿联酋联邦成
+ 立。全国公共假期为12月2日至3日。\n日期说明：固定公
+ 历日期或已核实的2026年安排；实际放假仍以适用政府公
+ 告为准。\n资料来源：https://u.ae/en/information-and-services/publ
+ ic-holidays-and-religious-affairs/public-holidays\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:year-eve-2026@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:跨年夜
+DESCRIPTION:类别：节庆\n公历年最后一天，居民常以聚会、
+ 灯光或烟花活动迎接新年。不是全国公共假期；活动以
+ 当地公告为准。\n日期说明：固定公历日期或已核实的202
+ 6年安排；实际放假仍以适用政府公告为准。\n资料来源
+ ：https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:节庆
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:new-year-2027@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:公历新年
+DESCRIPTION:类别：公共假期\n迎接公历新的一年。全国公共
+ 假期。\n日期说明：固定公历日期或已核实的2026年安排
+ ；实际放假仍以适用政府公告为准。\n资料来源：https://u
+ .ae/en/information-and-services/public-holidays-and-religious-affairs/publ
+ ic-holidays\n覆盖范围：全国公共假期及主要本土节庆、纪
+ 念日；不包含所有外籍社群节日、地方活动、商业节庆
+ 或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:miraj-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:登霄夜（预计）
+DESCRIPTION:类别：宗教纪念\n纪念先知穆罕默德夜行与登霄
+ 的宗教纪念日。不是全国公共假期。夜间宗教纪念通常
+ 自前一日日落开始。\n日期说明：按乌姆古拉历推算，阿
+ 联酋观月、政府调整或部门安排可能造成差异，实际日
+ 期以官方公告为准。\n资料来源：https://u.ae/en/information-an
+ d-services/public-holidays-and-religious-affairs/public-holidays\n覆盖
+ 范围：全国公共假期及主要本土节庆、纪念日；不包含
+ 所有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:haq-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:哈格莱拉糖果节（舍尔邦月十五夜）（预计）
+DESCRIPTION:类别：传统节庆\n阿联酋传统民俗节庆，孩子们
+ 穿传统服装、走访邻里并收集糖果，迎接即将到来的斋
+ 月。不是全国公共假期；庆祝活动多在前一晚举行。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae
+ -to-celebrate-the-popular-tradition/\n覆盖范围：全国公共假期及
+ 主要本土节庆、纪念日；不包含所有外籍社群节日、地
+ 方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:传统节庆
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celeb
+ rate-the-popular-tradition/
+END:VEVENT
+BEGIN:VEVENT
+UID:ramadan-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:斋月开始（预计）
+DESCRIPTION:类别：宗教节期\n伊斯兰历九月开始，穆斯林在
+ 黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月
+ 本身不是整月公共假期。\n日期说明：按乌姆古拉历推算
+ ，阿联酋观月、政府调整或部门安排可能造成差异，实
+ 际日期以官方公告为准。\n资料来源：https://u.ae/en/informat
+ ion-and-services/public-holidays-and-religious-affairs/public-holidays\n
+ 覆盖范围：全国公共假期及主要本土节庆、纪念日；不
+ 包含所有外籍社群节日、地方活动、商业节庆或学校假
+ 期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教节期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:qadr-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:盖德尔夜（传统纪念日）（预计）
+DESCRIPTION:类别：宗教纪念\n通常在斋月二十七夜纪念，亦
+ 常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念
+ 安排，不代表可确定的唯一日期；不是全国公共假期，
+ 夜间活动通常从前一日日落开始。\n日期说明：按乌姆古
+ 拉历推算，阿联酋观月、政府调整或部门安排可能造成
+ 差异，实际日期以官方公告为准。\n资料来源：https://u.ae
+ /en/information-and-services/public-holidays-and-religious-affairs/public-
+ holidays\n覆盖范围：全国公共假期及主要本土节庆、纪念
+ 日；不包含所有外籍社群节日、地方活动、商业节庆或
+ 学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-extra-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:开斋节可能增休一天（待确认）（预计）
+DESCRIPTION:类别：条件性假期\n仅当当地斋月满30天时，本
+ 日才是全国公共假期；若斋月只有29天则本条不构成假期
+ 。此条是条件性提示，不是已公布放假安排。\n日期说明
+ ：按乌姆古拉历推算，阿联酋观月、政府调整或部门安
+ 排可能造成差异，实际日期以官方公告为准。\n资料来源
+ ：https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:条件性假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270312
+SUMMARY:开斋节（预计）
+DESCRIPTION:类别：公共假期\n庆祝斋月结束，常有节日礼拜
+ 、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十
+ 月初一至初三；如斋月满30天，则斋月第30天也放假。未
+ 确认的额外一天在日历中单独标明。\n日期说明：按乌姆
+ 古拉历推算，阿联酋观月、政府调整或部门安排可能造
+ 成差异，实际日期以官方公告为准。\n资料来源：https://u
+ .ae/en/information-and-services/public-holidays-and-religious-affairs/publ
+ ic-holidays\n覆盖范围：全国公共假期及主要本土节庆、纪
+ 念日；不包含所有外籍社群节日、地方活动、商业节庆
+ 或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:children-2027@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:阿联酋儿童节
+DESCRIPTION:类别：纪念日\n关注儿童的权利、健康、教育和
+ 成长；属于纪念日，不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://ecd.gov.ae/en/about-initiati
+ ve\n覆盖范围：全国公共假期及主要本土节庆、纪念日；
+ 不包含所有外籍社群节日、地方活动、商业节庆或学校
+ 假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://ecd.gov.ae/en/about-initiative
+END:VEVENT
+BEGIN:VEVENT
+UID:arafah-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:阿拉法特日（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初九，朝觐中
+ 的重要日子。全国公共假期一天，随后迎来宰牲节。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://u.ae/en/information-and-services/public-holidays-and-r
+ eligious-affairs/public-holidays\n覆盖范围：全国公共假期及主
+ 要本土节庆、纪念日；不包含所有外籍社群节日、地方
+ 活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:adha-1448@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270519
+SUMMARY:宰牲节（古尔邦节）（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初十开始，重
+ 视信仰、分享与帮助有需要的人。现行全国公共假期为
+ 十二月初十至十二日，共三天。\n日期说明：按乌姆古拉
+ 历推算，阿联酋观月、政府调整或部门安排可能造成差
+ 异，实际日期以官方公告为准。\n资料来源：https://u.ae/en
+ /information-and-services/public-holidays-and-religious-affairs/public-hol
+ idays\n覆盖范围：全国公共假期及主要本土节庆、纪念日
+ ；不包含所有外籍社群节日、地方活动、商业节庆或学
+ 校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:hijri-new-year-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:伊斯兰新年（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历一月初一，标志新回
+ 历年的开始，并纪念迁徙的历史意义。现行全国公共假
+ 期一天；实际放假日可能由政府调整。\n日期说明：按乌
+ 姆古拉历推算，阿联酋观月、政府调整或部门安排可能
+ 造成差异，实际日期以官方公告为准。\n资料来源：https:
+ //u.ae/en/information-and-services/public-holidays-and-religious-affairs/p
+ ublic-holidays\n覆盖范围：全国公共假期及主要本土节庆、
+ 纪念日；不包含所有外籍社群节日、地方活动、商业节
+ 庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:union-pledge-2027@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:联邦誓约日
+DESCRIPTION:类别：纪念日\n纪念1971年7月18日各酋长国统治者
+ 签署联邦宣言与宪法、确定国家名称的历史时刻。不另
+ 设全国公共假期。\n日期说明：固定公历日期或已核实的
+ 2026年安排；实际放假仍以适用政府公告为准。\n资料来
+ 源：https://mohap.gov.ae/en/w/union-pledge-day-2\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/union-pledge-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:mawlid-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:圣纪节（先知穆罕默德诞辰）（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历三月十二日，纪念先
+ 知穆罕默德诞辰。现行全国公共假期一天；实际放假日
+ 可能由政府调整。\n日期说明：按乌姆古拉历推算，阿联
+ 酋观月、政府调整或部门安排可能造成差异，实际日期
+ 以官方公告为准。\n资料来源：https://u.ae/en/information-and-s
+ ervices/public-holidays-and-religious-affairs/public-holidays\n覆盖范
+ 围：全国公共假期及主要本土节庆、纪念日；不包含所
+ 有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:women-2027@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:阿联酋妇女节
+DESCRIPTION:类别：纪念日\n致敬阿联酋女性对社会与国家发
+ 展的贡献；日期也纪念1975年妇女总会成立。不另设全国
+ 公共假期。\n日期说明：固定公历日期或已核实的2026年
+ 安排；实际放假仍以适用政府公告为准。\n资料来源：htt
+ ps://mohap.gov.ae/en/w/emirati-women-s-day\n覆盖范围：全国公共假
+ 期及主要本土节庆、纪念日；不包含所有外籍社群节日
+ 、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/emirati-women-s-day
+END:VEVENT
+BEGIN:VEVENT
+UID:flag-2027@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:阿联酋国旗日
+DESCRIPTION:类别：纪念日\n通过升旗等活动表达对国家团结
+ 与共同身份的认同。不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://www.nma.gov.ae/en/media-cent
+ er/events/flag-day\n覆盖范围：全国公共假期及主要本土节庆
+ 、纪念日；不包含所有外籍社群节日、地方活动、商业
+ 节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.nma.gov.ae/en/media-center/events/flag-day
+END:VEVENT
+BEGIN:VEVENT
+UID:commemoration-2027@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:阿联酋烈士纪念日
+DESCRIPTION:类别：纪念日\n缅怀为国家奉献生命的人士。按
+ 现行全国假期清单，本日为纪念日，不单独列作全国公
+ 共假期。\n日期说明：固定公历日期或已核实的2026年安
+ 排；实际放假仍以适用政府公告为准。\n资料来源：https:
+ //www.ajnrd.ae/en/event/\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.ajnrd.ae/en/event/
+END:VEVENT
+BEGIN:VEVENT
+UID:national-2027@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271204
+SUMMARY:阿联酋国庆节（联邦日）
+DESCRIPTION:类别：公共假期\n纪念1971年12月2日阿联酋联邦成
+ 立。全国公共假期为12月2日至3日。\n日期说明：固定公
+ 历日期或已核实的2026年安排；实际放假仍以适用政府公
+ 告为准。\n资料来源：https://u.ae/en/information-and-services/publ
+ ic-holidays-and-religious-affairs/public-holidays\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:miraj-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:登霄夜（预计）
+DESCRIPTION:类别：宗教纪念\n纪念先知穆罕默德夜行与登霄
+ 的宗教纪念日。不是全国公共假期。夜间宗教纪念通常
+ 自前一日日落开始。\n日期说明：按乌姆古拉历推算，阿
+ 联酋观月、政府调整或部门安排可能造成差异，实际日
+ 期以官方公告为准。\n资料来源：https://u.ae/en/information-an
+ d-services/public-holidays-and-religious-affairs/public-holidays\n覆盖
+ 范围：全国公共假期及主要本土节庆、纪念日；不包含
+ 所有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:year-eve-2027@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:跨年夜
+DESCRIPTION:类别：节庆\n公历年最后一天，居民常以聚会、
+ 灯光或烟花活动迎接新年。不是全国公共假期；活动以
+ 当地公告为准。\n日期说明：固定公历日期或已核实的202
+ 6年安排；实际放假仍以适用政府公告为准。\n资料来源
+ ：https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:节庆
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:new-year-2028@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:公历新年
+DESCRIPTION:类别：公共假期\n迎接公历新的一年。全国公共
+ 假期。\n日期说明：固定公历日期或已核实的2026年安排
+ ；实际放假仍以适用政府公告为准。\n资料来源：https://u
+ .ae/en/information-and-services/public-holidays-and-religious-affairs/publ
+ ic-holidays\n覆盖范围：全国公共假期及主要本土节庆、纪
+ 念日；不包含所有外籍社群节日、地方活动、商业节庆
+ 或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:haq-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+SUMMARY:哈格莱拉糖果节（舍尔邦月十五夜）（预计）
+DESCRIPTION:类别：传统节庆\n阿联酋传统民俗节庆，孩子们
+ 穿传统服装、走访邻里并收集糖果，迎接即将到来的斋
+ 月。不是全国公共假期；庆祝活动多在前一晚举行。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae
+ -to-celebrate-the-popular-tradition/\n覆盖范围：全国公共假期及
+ 主要本土节庆、纪念日；不包含所有外籍社群节日、地
+ 方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:传统节庆
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celeb
+ rate-the-popular-tradition/
+END:VEVENT
+BEGIN:VEVENT
+UID:ramadan-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:斋月开始（预计）
+DESCRIPTION:类别：宗教节期\n伊斯兰历九月开始，穆斯林在
+ 黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月
+ 本身不是整月公共假期。\n日期说明：按乌姆古拉历推算
+ ，阿联酋观月、政府调整或部门安排可能造成差异，实
+ 际日期以官方公告为准。\n资料来源：https://u.ae/en/informat
+ ion-and-services/public-holidays-and-religious-affairs/public-holidays\n
+ 覆盖范围：全国公共假期及主要本土节庆、纪念日；不
+ 包含所有外籍社群节日、地方活动、商业节庆或学校假
+ 期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教节期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:qadr-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280223
+DTEND;VALUE=DATE:20280224
+SUMMARY:盖德尔夜（传统纪念日）（预计）
+DESCRIPTION:类别：宗教纪念\n通常在斋月二十七夜纪念，亦
+ 常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念
+ 安排，不代表可确定的唯一日期；不是全国公共假期，
+ 夜间活动通常从前一日日落开始。\n日期说明：按乌姆古
+ 拉历推算，阿联酋观月、政府调整或部门安排可能造成
+ 差异，实际日期以官方公告为准。\n资料来源：https://u.ae
+ /en/information-and-services/public-holidays-and-religious-affairs/public-
+ holidays\n覆盖范围：全国公共假期及主要本土节庆、纪念
+ 日；不包含所有外籍社群节日、地方活动、商业节庆或
+ 学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-extra-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280225
+DTEND;VALUE=DATE:20280226
+SUMMARY:开斋节可能增休一天（待确认）（预计）
+DESCRIPTION:类别：条件性假期\n仅当当地斋月满30天时，本
+ 日才是全国公共假期；若斋月只有29天则本条不构成假期
+ 。此条是条件性提示，不是已公布放假安排。\n日期说明
+ ：按乌姆古拉历推算，阿联酋观月、政府调整或部门安
+ 排可能造成差异，实际日期以官方公告为准。\n资料来源
+ ：https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:条件性假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280229
+SUMMARY:开斋节（预计）
+DESCRIPTION:类别：公共假期\n庆祝斋月结束，常有节日礼拜
+ 、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十
+ 月初一至初三；如斋月满30天，则斋月第30天也放假。未
+ 确认的额外一天在日历中单独标明。\n日期说明：按乌姆
+ 古拉历推算，阿联酋观月、政府调整或部门安排可能造
+ 成差异，实际日期以官方公告为准。\n资料来源：https://u
+ .ae/en/information-and-services/public-holidays-and-religious-affairs/publ
+ ic-holidays\n覆盖范围：全国公共假期及主要本土节庆、纪
+ 念日；不包含所有外籍社群节日、地方活动、商业节庆
+ 或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:children-2028@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:阿联酋儿童节
+DESCRIPTION:类别：纪念日\n关注儿童的权利、健康、教育和
+ 成长；属于纪念日，不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://ecd.gov.ae/en/about-initiati
+ ve\n覆盖范围：全国公共假期及主要本土节庆、纪念日；
+ 不包含所有外籍社群节日、地方活动、商业节庆或学校
+ 假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://ecd.gov.ae/en/about-initiative
+END:VEVENT
+BEGIN:VEVENT
+UID:arafah-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+SUMMARY:阿拉法特日（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初九，朝觐中
+ 的重要日子。全国公共假期一天，随后迎来宰牲节。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://u.ae/en/information-and-services/public-holidays-and-r
+ eligious-affairs/public-holidays\n覆盖范围：全国公共假期及主
+ 要本土节庆、纪念日；不包含所有外籍社群节日、地方
+ 活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:adha-1449@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280508
+SUMMARY:宰牲节（古尔邦节）（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初十开始，重
+ 视信仰、分享与帮助有需要的人。现行全国公共假期为
+ 十二月初十至十二日，共三天。\n日期说明：按乌姆古拉
+ 历推算，阿联酋观月、政府调整或部门安排可能造成差
+ 异，实际日期以官方公告为准。\n资料来源：https://u.ae/en
+ /information-and-services/public-holidays-and-religious-affairs/public-hol
+ idays\n覆盖范围：全国公共假期及主要本土节庆、纪念日
+ ；不包含所有外籍社群节日、地方活动、商业节庆或学
+ 校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:hijri-new-year-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:伊斯兰新年（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历一月初一，标志新回
+ 历年的开始，并纪念迁徙的历史意义。现行全国公共假
+ 期一天；实际放假日可能由政府调整。\n日期说明：按乌
+ 姆古拉历推算，阿联酋观月、政府调整或部门安排可能
+ 造成差异，实际日期以官方公告为准。\n资料来源：https:
+ //u.ae/en/information-and-services/public-holidays-and-religious-affairs/p
+ ublic-holidays\n覆盖范围：全国公共假期及主要本土节庆、
+ 纪念日；不包含所有外籍社群节日、地方活动、商业节
+ 庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:union-pledge-2028@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280718
+DTEND;VALUE=DATE:20280719
+SUMMARY:联邦誓约日
+DESCRIPTION:类别：纪念日\n纪念1971年7月18日各酋长国统治者
+ 签署联邦宣言与宪法、确定国家名称的历史时刻。不另
+ 设全国公共假期。\n日期说明：固定公历日期或已核实的
+ 2026年安排；实际放假仍以适用政府公告为准。\n资料来
+ 源：https://mohap.gov.ae/en/w/union-pledge-day-2\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/union-pledge-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:mawlid-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:圣纪节（先知穆罕默德诞辰）（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历三月十二日，纪念先
+ 知穆罕默德诞辰。现行全国公共假期一天；实际放假日
+ 可能由政府调整。\n日期说明：按乌姆古拉历推算，阿联
+ 酋观月、政府调整或部门安排可能造成差异，实际日期
+ 以官方公告为准。\n资料来源：https://u.ae/en/information-and-s
+ ervices/public-holidays-and-religious-affairs/public-holidays\n覆盖范
+ 围：全国公共假期及主要本土节庆、纪念日；不包含所
+ 有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:women-2028@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280828
+DTEND;VALUE=DATE:20280829
+SUMMARY:阿联酋妇女节
+DESCRIPTION:类别：纪念日\n致敬阿联酋女性对社会与国家发
+ 展的贡献；日期也纪念1975年妇女总会成立。不另设全国
+ 公共假期。\n日期说明：固定公历日期或已核实的2026年
+ 安排；实际放假仍以适用政府公告为准。\n资料来源：htt
+ ps://mohap.gov.ae/en/w/emirati-women-s-day\n覆盖范围：全国公共假
+ 期及主要本土节庆、纪念日；不包含所有外籍社群节日
+ 、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/emirati-women-s-day
+END:VEVENT
+BEGIN:VEVENT
+UID:flag-2028@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20281103
+DTEND;VALUE=DATE:20281104
+SUMMARY:阿联酋国旗日
+DESCRIPTION:类别：纪念日\n通过升旗等活动表达对国家团结
+ 与共同身份的认同。不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://www.nma.gov.ae/en/media-cent
+ er/events/flag-day\n覆盖范围：全国公共假期及主要本土节庆
+ 、纪念日；不包含所有外籍社群节日、地方活动、商业
+ 节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.nma.gov.ae/en/media-center/events/flag-day
+END:VEVENT
+BEGIN:VEVENT
+UID:commemoration-2028@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:阿联酋烈士纪念日
+DESCRIPTION:类别：纪念日\n缅怀为国家奉献生命的人士。按
+ 现行全国假期清单，本日为纪念日，不单独列作全国公
+ 共假期。\n日期说明：固定公历日期或已核实的2026年安
+ 排；实际放假仍以适用政府公告为准。\n资料来源：https:
+ //www.ajnrd.ae/en/event/\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.ajnrd.ae/en/event/
+END:VEVENT
+BEGIN:VEVENT
+UID:national-2028@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20281202
+DTEND;VALUE=DATE:20281204
+SUMMARY:阿联酋国庆节（联邦日）
+DESCRIPTION:类别：公共假期\n纪念1971年12月2日阿联酋联邦成
+ 立。全国公共假期为12月2日至3日。\n日期说明：固定公
+ 历日期或已核实的2026年安排；实际放假仍以适用政府公
+ 告为准。\n资料来源：https://u.ae/en/information-and-services/publ
+ ic-holidays-and-religious-affairs/public-holidays\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:miraj-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20281214
+DTEND;VALUE=DATE:20281215
+SUMMARY:登霄夜（预计）
+DESCRIPTION:类别：宗教纪念\n纪念先知穆罕默德夜行与登霄
+ 的宗教纪念日。不是全国公共假期。夜间宗教纪念通常
+ 自前一日日落开始。\n日期说明：按乌姆古拉历推算，阿
+ 联酋观月、政府调整或部门安排可能造成差异，实际日
+ 期以官方公告为准。\n资料来源：https://u.ae/en/information-an
+ d-services/public-holidays-and-religious-affairs/public-holidays\n覆盖
+ 范围：全国公共假期及主要本土节庆、纪念日；不包含
+ 所有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:haq-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:哈格莱拉糖果节（舍尔邦月十五夜）（预计）
+DESCRIPTION:类别：传统节庆\n阿联酋传统民俗节庆，孩子们
+ 穿传统服装、走访邻里并收集糖果，迎接即将到来的斋
+ 月。不是全国公共假期；庆祝活动多在前一晚举行。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae
+ -to-celebrate-the-popular-tradition/\n覆盖范围：全国公共假期及
+ 主要本土节庆、纪念日；不包含所有外籍社群节日、地
+ 方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:传统节庆
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celeb
+ rate-the-popular-tradition/
+END:VEVENT
+BEGIN:VEVENT
+UID:year-eve-2028@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:跨年夜
+DESCRIPTION:类别：节庆\n公历年最后一天，居民常以聚会、
+ 灯光或烟花活动迎接新年。不是全国公共假期；活动以
+ 当地公告为准。\n日期说明：固定公历日期或已核实的202
+ 6年安排；实际放假仍以适用政府公告为准。\n资料来源
+ ：https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:节庆
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:new-year-2029@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:公历新年
+DESCRIPTION:类别：公共假期\n迎接公历新的一年。全国公共
+ 假期。\n日期说明：固定公历日期或已核实的2026年安排
+ ；实际放假仍以适用政府公告为准。\n资料来源：https://u
+ .ae/en/information-and-services/public-holidays-and-religious-affairs/publ
+ ic-holidays\n覆盖范围：全国公共假期及主要本土节庆、纪
+ 念日；不包含所有外籍社群节日、地方活动、商业节庆
+ 或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:ramadan-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:斋月开始（预计）
+DESCRIPTION:类别：宗教节期\n伊斯兰历九月开始，穆斯林在
+ 黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月
+ 本身不是整月公共假期。\n日期说明：按乌姆古拉历推算
+ ，阿联酋观月、政府调整或部门安排可能造成差异，实
+ 际日期以官方公告为准。\n资料来源：https://u.ae/en/informat
+ ion-and-services/public-holidays-and-religious-affairs/public-holidays\n
+ 覆盖范围：全国公共假期及主要本土节庆、纪念日；不
+ 包含所有外籍社群节日、地方活动、商业节庆或学校假
+ 期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教节期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:qadr-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290211
+DTEND;VALUE=DATE:20290212
+SUMMARY:盖德尔夜（传统纪念日）（预计）
+DESCRIPTION:类别：宗教纪念\n通常在斋月二十七夜纪念，亦
+ 常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念
+ 安排，不代表可确定的唯一日期；不是全国公共假期，
+ 夜间活动通常从前一日日落开始。\n日期说明：按乌姆古
+ 拉历推算，阿联酋观月、政府调整或部门安排可能造成
+ 差异，实际日期以官方公告为准。\n资料来源：https://u.ae
+ /en/information-and-services/public-holidays-and-religious-affairs/public-
+ holidays\n覆盖范围：全国公共假期及主要本土节庆、纪念
+ 日；不包含所有外籍社群节日、地方活动、商业节庆或
+ 学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-extra-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:开斋节可能增休一天（待确认）（预计）
+DESCRIPTION:类别：条件性假期\n仅当当地斋月满30天时，本
+ 日才是全国公共假期；若斋月只有29天则本条不构成假期
+ 。此条是条件性提示，不是已公布放假安排。\n日期说明
+ ：按乌姆古拉历推算，阿联酋观月、政府调整或部门安
+ 排可能造成差异，实际日期以官方公告为准。\n资料来源
+ ：https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:条件性假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290217
+SUMMARY:开斋节（预计）
+DESCRIPTION:类别：公共假期\n庆祝斋月结束，常有节日礼拜
+ 、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十
+ 月初一至初三；如斋月满30天，则斋月第30天也放假。未
+ 确认的额外一天在日历中单独标明。\n日期说明：按乌姆
+ 古拉历推算，阿联酋观月、政府调整或部门安排可能造
+ 成差异，实际日期以官方公告为准。\n资料来源：https://u
+ .ae/en/information-and-services/public-holidays-and-religious-affairs/publ
+ ic-holidays\n覆盖范围：全国公共假期及主要本土节庆、纪
+ 念日；不包含所有外籍社群节日、地方活动、商业节庆
+ 或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:children-2029@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:阿联酋儿童节
+DESCRIPTION:类别：纪念日\n关注儿童的权利、健康、教育和
+ 成长；属于纪念日，不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://ecd.gov.ae/en/about-initiati
+ ve\n覆盖范围：全国公共假期及主要本土节庆、纪念日；
+ 不包含所有外籍社群节日、地方活动、商业节庆或学校
+ 假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://ecd.gov.ae/en/about-initiative
+END:VEVENT
+BEGIN:VEVENT
+UID:arafah-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290423
+DTEND;VALUE=DATE:20290424
+SUMMARY:阿拉法特日（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初九，朝觐中
+ 的重要日子。全国公共假期一天，随后迎来宰牲节。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://u.ae/en/information-and-services/public-holidays-and-r
+ eligious-affairs/public-holidays\n覆盖范围：全国公共假期及主
+ 要本土节庆、纪念日；不包含所有外籍社群节日、地方
+ 活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:adha-1450@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290424
+DTEND;VALUE=DATE:20290427
+SUMMARY:宰牲节（古尔邦节）（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初十开始，重
+ 视信仰、分享与帮助有需要的人。现行全国公共假期为
+ 十二月初十至十二日，共三天。\n日期说明：按乌姆古拉
+ 历推算，阿联酋观月、政府调整或部门安排可能造成差
+ 异，实际日期以官方公告为准。\n资料来源：https://u.ae/en
+ /information-and-services/public-holidays-and-religious-affairs/public-hol
+ idays\n覆盖范围：全国公共假期及主要本土节庆、纪念日
+ ；不包含所有外籍社群节日、地方活动、商业节庆或学
+ 校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:hijri-new-year-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290514
+DTEND;VALUE=DATE:20290515
+SUMMARY:伊斯兰新年（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历一月初一，标志新回
+ 历年的开始，并纪念迁徙的历史意义。现行全国公共假
+ 期一天；实际放假日可能由政府调整。\n日期说明：按乌
+ 姆古拉历推算，阿联酋观月、政府调整或部门安排可能
+ 造成差异，实际日期以官方公告为准。\n资料来源：https:
+ //u.ae/en/information-and-services/public-holidays-and-religious-affairs/p
+ ublic-holidays\n覆盖范围：全国公共假期及主要本土节庆、
+ 纪念日；不包含所有外籍社群节日、地方活动、商业节
+ 庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:union-pledge-2029@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290718
+DTEND;VALUE=DATE:20290719
+SUMMARY:联邦誓约日
+DESCRIPTION:类别：纪念日\n纪念1971年7月18日各酋长国统治者
+ 签署联邦宣言与宪法、确定国家名称的历史时刻。不另
+ 设全国公共假期。\n日期说明：固定公历日期或已核实的
+ 2026年安排；实际放假仍以适用政府公告为准。\n资料来
+ 源：https://mohap.gov.ae/en/w/union-pledge-day-2\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/union-pledge-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:mawlid-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290724
+DTEND;VALUE=DATE:20290725
+SUMMARY:圣纪节（先知穆罕默德诞辰）（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历三月十二日，纪念先
+ 知穆罕默德诞辰。现行全国公共假期一天；实际放假日
+ 可能由政府调整。\n日期说明：按乌姆古拉历推算，阿联
+ 酋观月、政府调整或部门安排可能造成差异，实际日期
+ 以官方公告为准。\n资料来源：https://u.ae/en/information-and-s
+ ervices/public-holidays-and-religious-affairs/public-holidays\n覆盖范
+ 围：全国公共假期及主要本土节庆、纪念日；不包含所
+ 有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:women-2029@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20290828
+DTEND;VALUE=DATE:20290829
+SUMMARY:阿联酋妇女节
+DESCRIPTION:类别：纪念日\n致敬阿联酋女性对社会与国家发
+ 展的贡献；日期也纪念1975年妇女总会成立。不另设全国
+ 公共假期。\n日期说明：固定公历日期或已核实的2026年
+ 安排；实际放假仍以适用政府公告为准。\n资料来源：htt
+ ps://mohap.gov.ae/en/w/emirati-women-s-day\n覆盖范围：全国公共假
+ 期及主要本土节庆、纪念日；不包含所有外籍社群节日
+ 、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/emirati-women-s-day
+END:VEVENT
+BEGIN:VEVENT
+UID:flag-2029@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20291103
+DTEND;VALUE=DATE:20291104
+SUMMARY:阿联酋国旗日
+DESCRIPTION:类别：纪念日\n通过升旗等活动表达对国家团结
+ 与共同身份的认同。不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://www.nma.gov.ae/en/media-cent
+ er/events/flag-day\n覆盖范围：全国公共假期及主要本土节庆
+ 、纪念日；不包含所有外籍社群节日、地方活动、商业
+ 节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.nma.gov.ae/en/media-center/events/flag-day
+END:VEVENT
+BEGIN:VEVENT
+UID:commemoration-2029@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20291130
+DTEND;VALUE=DATE:20291201
+SUMMARY:阿联酋烈士纪念日
+DESCRIPTION:类别：纪念日\n缅怀为国家奉献生命的人士。按
+ 现行全国假期清单，本日为纪念日，不单独列作全国公
+ 共假期。\n日期说明：固定公历日期或已核实的2026年安
+ 排；实际放假仍以适用政府公告为准。\n资料来源：https:
+ //www.ajnrd.ae/en/event/\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.ajnrd.ae/en/event/
+END:VEVENT
+BEGIN:VEVENT
+UID:national-2029@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20291202
+DTEND;VALUE=DATE:20291204
+SUMMARY:阿联酋国庆节（联邦日）
+DESCRIPTION:类别：公共假期\n纪念1971年12月2日阿联酋联邦成
+ 立。全国公共假期为12月2日至3日。\n日期说明：固定公
+ 历日期或已核实的2026年安排；实际放假仍以适用政府公
+ 告为准。\n资料来源：https://u.ae/en/information-and-services/publ
+ ic-holidays-and-religious-affairs/public-holidays\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:miraj-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20291204
+DTEND;VALUE=DATE:20291205
+SUMMARY:登霄夜（预计）
+DESCRIPTION:类别：宗教纪念\n纪念先知穆罕默德夜行与登霄
+ 的宗教纪念日。不是全国公共假期。夜间宗教纪念通常
+ 自前一日日落开始。\n日期说明：按乌姆古拉历推算，阿
+ 联酋观月、政府调整或部门安排可能造成差异，实际日
+ 期以官方公告为准。\n资料来源：https://u.ae/en/information-an
+ d-services/public-holidays-and-religious-affairs/public-holidays\n覆盖
+ 范围：全国公共假期及主要本土节庆、纪念日；不包含
+ 所有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:haq-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291222
+SUMMARY:哈格莱拉糖果节（舍尔邦月十五夜）（预计）
+DESCRIPTION:类别：传统节庆\n阿联酋传统民俗节庆，孩子们
+ 穿传统服装、走访邻里并收集糖果，迎接即将到来的斋
+ 月。不是全国公共假期；庆祝活动多在前一晚举行。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae
+ -to-celebrate-the-popular-tradition/\n覆盖范围：全国公共假期及
+ 主要本土节庆、纪念日；不包含所有外籍社群节日、地
+ 方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:传统节庆
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celeb
+ rate-the-popular-tradition/
+END:VEVENT
+BEGIN:VEVENT
+UID:year-eve-2029@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:跨年夜
+DESCRIPTION:类别：节庆\n公历年最后一天，居民常以聚会、
+ 灯光或烟花活动迎接新年。不是全国公共假期；活动以
+ 当地公告为准。\n日期说明：固定公历日期或已核实的202
+ 6年安排；实际放假仍以适用政府公告为准。\n资料来源
+ ：https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:节庆
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:new-year-2030@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:公历新年
+DESCRIPTION:类别：公共假期\n迎接公历新的一年。全国公共
+ 假期。\n日期说明：固定公历日期或已核实的2026年安排
+ ；实际放假仍以适用政府公告为准。\n资料来源：https://u
+ .ae/en/information-and-services/public-holidays-and-religious-affairs/publ
+ ic-holidays\n覆盖范围：全国公共假期及主要本土节庆、纪
+ 念日；不包含所有外籍社群节日、地方活动、商业节庆
+ 或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:ramadan-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300105
+DTEND;VALUE=DATE:20300106
+SUMMARY:斋月开始（预计）
+DESCRIPTION:类别：宗教节期\n伊斯兰历九月开始，穆斯林在
+ 黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月
+ 本身不是整月公共假期。\n日期说明：按乌姆古拉历推算
+ ，阿联酋观月、政府调整或部门安排可能造成差异，实
+ 际日期以官方公告为准。\n资料来源：https://u.ae/en/informat
+ ion-and-services/public-holidays-and-religious-affairs/public-holidays\n
+ 覆盖范围：全国公共假期及主要本土节庆、纪念日；不
+ 包含所有外籍社群节日、地方活动、商业节庆或学校假
+ 期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教节期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:qadr-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:盖德尔夜（传统纪念日）（预计）
+DESCRIPTION:类别：宗教纪念\n通常在斋月二十七夜纪念，亦
+ 常在斋月最后十夜的奇数夜寻求。此日期仅为传统纪念
+ 安排，不代表可确定的唯一日期；不是全国公共假期，
+ 夜间活动通常从前一日日落开始。\n日期说明：按乌姆古
+ 拉历推算，阿联酋观月、政府调整或部门安排可能造成
+ 差异，实际日期以官方公告为准。\n资料来源：https://u.ae
+ /en/information-and-services/public-holidays-and-religious-affairs/public-
+ holidays\n覆盖范围：全国公共假期及主要本土节庆、纪念
+ 日；不包含所有外籍社群节日、地方活动、商业节庆或
+ 学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-extra-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300203
+DTEND;VALUE=DATE:20300204
+SUMMARY:开斋节可能增休一天（待确认）（预计）
+DESCRIPTION:类别：条件性假期\n仅当当地斋月满30天时，本
+ 日才是全国公共假期；若斋月只有29天则本条不构成假期
+ 。此条是条件性提示，不是已公布放假安排。\n日期说明
+ ：按乌姆古拉历推算，阿联酋观月、政府调整或部门安
+ 排可能造成差异，实际日期以官方公告为准。\n资料来源
+ ：https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:条件性假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:fitr-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300207
+SUMMARY:开斋节（预计）
+DESCRIPTION:类别：公共假期\n庆祝斋月结束，常有节日礼拜
+ 、探亲、馈赠和慈善活动。现行全国假期为伊斯兰历十
+ 月初一至初三；如斋月满30天，则斋月第30天也放假。未
+ 确认的额外一天在日历中单独标明。\n日期说明：按乌姆
+ 古拉历推算，阿联酋观月、政府调整或部门安排可能造
+ 成差异，实际日期以官方公告为准。\n资料来源：https://u
+ .ae/en/information-and-services/public-holidays-and-religious-affairs/publ
+ ic-holidays\n覆盖范围：全国公共假期及主要本土节庆、纪
+ 念日；不包含所有外籍社群节日、地方活动、商业节庆
+ 或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:children-2030@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300315
+DTEND;VALUE=DATE:20300316
+SUMMARY:阿联酋儿童节
+DESCRIPTION:类别：纪念日\n关注儿童的权利、健康、教育和
+ 成长；属于纪念日，不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://ecd.gov.ae/en/about-initiati
+ ve\n覆盖范围：全国公共假期及主要本土节庆、纪念日；
+ 不包含所有外籍社群节日、地方活动、商业节庆或学校
+ 假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://ecd.gov.ae/en/about-initiative
+END:VEVENT
+BEGIN:VEVENT
+UID:arafah-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300412
+DTEND;VALUE=DATE:20300413
+SUMMARY:阿拉法特日（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初九，朝觐中
+ 的重要日子。全国公共假期一天，随后迎来宰牲节。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://u.ae/en/information-and-services/public-holidays-and-r
+ eligious-affairs/public-holidays\n覆盖范围：全国公共假期及主
+ 要本土节庆、纪念日；不包含所有外籍社群节日、地方
+ 活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:adha-1451@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300413
+DTEND;VALUE=DATE:20300416
+SUMMARY:宰牲节（古尔邦节）（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历十二月初十开始，重
+ 视信仰、分享与帮助有需要的人。现行全国公共假期为
+ 十二月初十至十二日，共三天。\n日期说明：按乌姆古拉
+ 历推算，阿联酋观月、政府调整或部门安排可能造成差
+ 异，实际日期以官方公告为准。\n资料来源：https://u.ae/en
+ /information-and-services/public-holidays-and-religious-affairs/public-hol
+ idays\n覆盖范围：全国公共假期及主要本土节庆、纪念日
+ ；不包含所有外籍社群节日、地方活动、商业节庆或学
+ 校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:hijri-new-year-1452@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300504
+DTEND;VALUE=DATE:20300505
+SUMMARY:伊斯兰新年（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历一月初一，标志新回
+ 历年的开始，并纪念迁徙的历史意义。现行全国公共假
+ 期一天；实际放假日可能由政府调整。\n日期说明：按乌
+ 姆古拉历推算，阿联酋观月、政府调整或部门安排可能
+ 造成差异，实际日期以官方公告为准。\n资料来源：https:
+ //u.ae/en/information-and-services/public-holidays-and-religious-affairs/p
+ ublic-holidays\n覆盖范围：全国公共假期及主要本土节庆、
+ 纪念日；不包含所有外籍社群节日、地方活动、商业节
+ 庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:mawlid-1452@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300713
+DTEND;VALUE=DATE:20300714
+SUMMARY:圣纪节（先知穆罕默德诞辰）（预计）
+DESCRIPTION:类别：公共假期\n伊斯兰历三月十二日，纪念先
+ 知穆罕默德诞辰。现行全国公共假期一天；实际放假日
+ 可能由政府调整。\n日期说明：按乌姆古拉历推算，阿联
+ 酋观月、政府调整或部门安排可能造成差异，实际日期
+ 以官方公告为准。\n资料来源：https://u.ae/en/information-and-s
+ ervices/public-holidays-and-religious-affairs/public-holidays\n覆盖范
+ 围：全国公共假期及主要本土节庆、纪念日；不包含所
+ 有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:union-pledge-2030@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300718
+DTEND;VALUE=DATE:20300719
+SUMMARY:联邦誓约日
+DESCRIPTION:类别：纪念日\n纪念1971年7月18日各酋长国统治者
+ 签署联邦宣言与宪法、确定国家名称的历史时刻。不另
+ 设全国公共假期。\n日期说明：固定公历日期或已核实的
+ 2026年安排；实际放假仍以适用政府公告为准。\n资料来
+ 源：https://mohap.gov.ae/en/w/union-pledge-day-2\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/union-pledge-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:women-2030@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20300828
+DTEND;VALUE=DATE:20300829
+SUMMARY:阿联酋妇女节
+DESCRIPTION:类别：纪念日\n致敬阿联酋女性对社会与国家发
+ 展的贡献；日期也纪念1975年妇女总会成立。不另设全国
+ 公共假期。\n日期说明：固定公历日期或已核实的2026年
+ 安排；实际放假仍以适用政府公告为准。\n资料来源：htt
+ ps://mohap.gov.ae/en/w/emirati-women-s-day\n覆盖范围：全国公共假
+ 期及主要本土节庆、纪念日；不包含所有外籍社群节日
+ 、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://mohap.gov.ae/en/w/emirati-women-s-day
+END:VEVENT
+BEGIN:VEVENT
+UID:flag-2030@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20301103
+DTEND;VALUE=DATE:20301104
+SUMMARY:阿联酋国旗日
+DESCRIPTION:类别：纪念日\n通过升旗等活动表达对国家团结
+ 与共同身份的认同。不另设全国公共假期。\n日期说明：
+ 固定公历日期或已核实的2026年安排；实际放假仍以适用
+ 政府公告为准。\n资料来源：https://www.nma.gov.ae/en/media-cent
+ er/events/flag-day\n覆盖范围：全国公共假期及主要本土节庆
+ 、纪念日；不包含所有外籍社群节日、地方活动、商业
+ 节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.nma.gov.ae/en/media-center/events/flag-day
+END:VEVENT
+BEGIN:VEVENT
+UID:miraj-1452@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20301123
+DTEND;VALUE=DATE:20301124
+SUMMARY:登霄夜（预计）
+DESCRIPTION:类别：宗教纪念\n纪念先知穆罕默德夜行与登霄
+ 的宗教纪念日。不是全国公共假期。夜间宗教纪念通常
+ 自前一日日落开始。\n日期说明：按乌姆古拉历推算，阿
+ 联酋观月、政府调整或部门安排可能造成差异，实际日
+ 期以官方公告为准。\n资料来源：https://u.ae/en/information-an
+ d-services/public-holidays-and-religious-affairs/public-holidays\n覆盖
+ 范围：全国公共假期及主要本土节庆、纪念日；不包含
+ 所有外籍社群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教纪念
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:commemoration-2030@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20301130
+DTEND;VALUE=DATE:20301201
+SUMMARY:阿联酋烈士纪念日
+DESCRIPTION:类别：纪念日\n缅怀为国家奉献生命的人士。按
+ 现行全国假期清单，本日为纪念日，不单独列作全国公
+ 共假期。\n日期说明：固定公历日期或已核实的2026年安
+ 排；实际放假仍以适用政府公告为准。\n资料来源：https:
+ //www.ajnrd.ae/en/event/\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:纪念日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://www.ajnrd.ae/en/event/
+END:VEVENT
+BEGIN:VEVENT
+UID:national-2030@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20301202
+DTEND;VALUE=DATE:20301204
+SUMMARY:阿联酋国庆节（联邦日）
+DESCRIPTION:类别：公共假期\n纪念1971年12月2日阿联酋联邦成
+ 立。全国公共假期为12月2日至3日。\n日期说明：固定公
+ 历日期或已核实的2026年安排；实际放假仍以适用政府公
+ 告为准。\n资料来源：https://u.ae/en/information-and-services/publ
+ ic-holidays-and-religious-affairs/public-holidays\n覆盖范围：全国
+ 公共假期及主要本土节庆、纪念日；不包含所有外籍社
+ 群节日、地方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:公共假期
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:haq-1452@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20301211
+DTEND;VALUE=DATE:20301212
+SUMMARY:哈格莱拉糖果节（舍尔邦月十五夜）（预计）
+DESCRIPTION:类别：传统节庆\n阿联酋传统民俗节庆，孩子们
+ 穿传统服装、走访邻里并收集糖果，迎接即将到来的斋
+ 月。不是全国公共假期；庆祝活动多在前一晚举行。\n日
+ 期说明：按乌姆古拉历推算，阿联酋观月、政府调整或
+ 部门安排可能造成差异，实际日期以官方公告为准。\n资
+ 料来源：https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae
+ -to-celebrate-the-popular-tradition/\n覆盖范围：全国公共假期及
+ 主要本土节庆、纪念日；不包含所有外籍社群节日、地
+ 方活动、商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:传统节庆
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://moc.gov.ae/en/events/haq-al-laila-convoy-tours-the-uae-to-celeb
+ rate-the-popular-tradition/
+END:VEVENT
+BEGIN:VEVENT
+UID:ramadan-1452@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20301226
+DTEND;VALUE=DATE:20301227
+SUMMARY:斋月开始（预计）
+DESCRIPTION:类别：宗教节期\n伊斯兰历九月开始，穆斯林在
+ 黎明至日落间斋戒，重视慈善、反省与家庭团聚。斋月
+ 本身不是整月公共假期。\n日期说明：按乌姆古拉历推算
+ ，阿联酋观月、政府调整或部门安排可能造成差异，实
+ 际日期以官方公告为准。\n资料来源：https://u.ae/en/informat
+ ion-and-services/public-holidays-and-religious-affairs/public-holidays\n
+ 覆盖范围：全国公共假期及主要本土节庆、纪念日；不
+ 包含所有外籍社群节日、地方活动、商业节庆或学校假
+ 期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:宗教节期
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:year-eve-2030@uae-holidays-zh-pink
+DTSTAMP:20261103T060000Z
+LAST-MODIFIED:20261103T060000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:跨年夜
+DESCRIPTION:类别：节庆\n公历年最后一天，居民常以聚会、
+ 灯光或烟花活动迎接新年。不是全国公共假期；活动以
+ 当地公告为准。\n日期说明：固定公历日期或已核实的202
+ 6年安排；实际放假仍以适用政府公告为准。\n资料来源
+ ：https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays\n覆盖范围：全国公共假期及主要本土
+ 节庆、纪念日；不包含所有外籍社群节日、地方活动、
+ 商业节庆或学校假期。
+LOCATION:阿拉伯联合酋长国
+CATEGORIES:节庆
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+COLOR:hotpink
+URL:https://u.ae/en/information-and-services/public-holidays-and-religious-
+ affairs/public-holidays
+END:VEVENT
+END:VCALENDAR
